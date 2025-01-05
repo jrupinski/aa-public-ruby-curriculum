@@ -42,7 +42,7 @@ with a specific icon in your task menu.
 - [X] 14. [Javascript Fundamentals Quiz](quizzes/js_fundamentals.md)
 - [X] 15. [Intro JavaScript Problems (Part 1)](homeworks/intro_js_problems/part_i.md)
 - [Solution](https://assets.aaonline.io/fullstack/javascript/homeworks/intro_js_problems/solution.zip)
-- [ ] 16. [Intro JavaScript Problems (Part 2)](homeworks/intro_js_problems/part_ii.md)
+- [X] 16. [Intro JavaScript Problems (Part 2)](homeworks/intro_js_problems/part_ii.md)
 - [Solution](https://assets.aaonline.io/fullstack/javascript/homeworks/intro_js_problems/solution.zip)
 - [ ] 17. [Object Oriented JS: Continued](readings/object-oriented-js.md)
 - [ ] 18. [Function Invocation, briefly](readings/function-invocation-briefly.md)
